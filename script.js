@@ -177,7 +177,7 @@ console.log(novoTexto); */
     //return numero1 + numero 2
    }
  */
-
+/* 
    let textoP = document.getElementById("texto");
 
    let saudacao = prompt("digite a saudaçao: ");
@@ -186,4 +186,4 @@ console.log(novoTexto); */
     textoP.textContent + saudacao; 
    } else {
     textoP.textContent = "SEGUNDOUUUUU VISSE";
-   }
+   } */
